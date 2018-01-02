@@ -84,3 +84,5 @@ If you want to tell others what you're writing on, or find a co-author!, please 
 | Steve Purves     | Not the floating point                                |
 | Tom Creech | The analog(ue) scientist's best frenemy |
 | Tom Creech + any takers? | Geocomputing at enterprise scale |
+| Didi Ooi         | The Cure to the curse of dimensionality (or see below) |
+| Didi Ooi + ??    | Why geologists should learn statistics                |
